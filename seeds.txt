@@ -1,0 +1,5762 @@
+[
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond23_uttNum868.wav",
+  "seed": 1403
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond37_uttNum1351.wav",
+  "seed": 1103
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond13_uttNum408.wav",
+  "seed": 814
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond1_uttNum1313.wav",
+  "seed": 1053
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond1_uttNum329.wav",
+  "seed": 317
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond36_uttNum1349.wav",
+  "seed": 750
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond3_uttNum101.wav",
+  "seed": 189
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond33_uttNum1206.wav",
+  "seed": 370
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond1_uttNum954.wav",
+  "seed": 459
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond12_uttNum470.wav",
+  "seed": 1366
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond1_uttNum1185.wav",
+  "seed": 499
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond8_uttNum243.wav",
+  "seed": 415
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond1_uttNum729.wav",
+  "seed": 824
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond29_uttNum1196.wav",
+  "seed": 1058
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond5_uttNum236.wav",
+  "seed": 228
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond1_uttNum289.wav",
+  "seed": 146
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond28_uttNum999.wav",
+  "seed": 390
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond33_uttNum1246.wav",
+  "seed": 20
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond23_uttNum843.wav",
+  "seed": 520
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond1_uttNum154.wav",
+  "seed": 1350
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond21_uttNum782.wav",
+  "seed": 401
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond15_uttNum510.wav",
+  "seed": 483
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond9_uttNum357.wav",
+  "seed": 280
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond25_uttNum880.wav",
+  "seed": 1051
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond27_uttNum974.wav",
+  "seed": 781
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond29_uttNum1188.wav",
+  "seed": 17
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond29_uttNum1187.wav",
+  "seed": 729
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond32_uttNum1203.wav",
+  "seed": 1384
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond36_uttNum1422.wav",
+  "seed": 313
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond1_uttNum1338.wav",
+  "seed": 628
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond28_uttNum968.wav",
+  "seed": 929
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond1_uttNum1089.wav",
+  "seed": 723
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond16_uttNum496.wav",
+  "seed": 667
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond1_uttNum1066.wav",
+  "seed": 1358
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond20_uttNum835.wav",
+  "seed": 1211
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond8_uttNum251.wav",
+  "seed": 294
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond27_uttNum1030.wav",
+  "seed": 1291
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond1_uttNum1193.wav",
+  "seed": 956
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond6_uttNum142.wav",
+  "seed": 903
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond1_uttNum953.wav",
+  "seed": 1102
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond4_uttNum40.wav",
+  "seed": 290
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond1_uttNum1153.wav",
+  "seed": 1069
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond6_uttNum214.wav",
+  "seed": 1008
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond1_uttNum1154.wav",
+  "seed": 515
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond1_uttNum1305.wav",
+  "seed": 433
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond25_uttNum960.wav",
+  "seed": 967
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond9_uttNum326.wav",
+  "seed": 227
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond7_uttNum151.wav",
+  "seed": 705
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond1_uttNum129.wav",
+  "seed": 1149
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond29_uttNum1172.wav",
+  "seed": 421
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond14_uttNum515.wav",
+  "seed": 245
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond11_uttNum427.wav",
+  "seed": 1321
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond1_uttNum97.wav",
+  "seed": 259
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond28_uttNum1023.wav",
+  "seed": 1301
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond1_uttNum425.wav",
+  "seed": 764
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond15_uttNum486.wav",
+  "seed": 1150
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond2_uttNum19.wav",
+  "seed": 273
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond33_uttNum1302.wav",
+  "seed": 1017
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond14_uttNum483.wav",
+  "seed": 1355
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond34_uttNum1248.wav",
+  "seed": 1057
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond1_uttNum1241.wav",
+  "seed": 681
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond25_uttNum855.wav",
+  "seed": 765
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond1_uttNum162.wav",
+  "seed": 1027
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond8_uttNum339.wav",
+  "seed": 205
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond16_uttNum504.wav",
+  "seed": 318
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond8_uttNum292.wav",
+  "seed": 15
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond27_uttNum1029.wav",
+  "seed": 1134
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond1_uttNum634.wav",
+  "seed": 231
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond1_uttNum1217.wav",
+  "seed": 621
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond1_uttNum1402.wav",
+  "seed": 950
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond16_uttNum551.wav",
+  "seed": 1019
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond9_uttNum269.wav",
+  "seed": 920
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond5_uttNum148.wav",
+  "seed": 349
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond37_uttNum1400.wav",
+  "seed": 711
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond23_uttNum924.wav",
+  "seed": 468
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond28_uttNum1040.wav",
+  "seed": 239
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond1_uttNum938.wav",
+  "seed": 76
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond5_uttNum123.wav",
+  "seed": 17
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond34_uttNum1231.wav",
+  "seed": 686
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond4_uttNum95.wav",
+  "seed": 1300
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond12_uttNum477.wav",
+  "seed": 759
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond5_uttNum227.wav",
+  "seed": 345
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond1_uttNum1170.wav",
+  "seed": 152
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond37_uttNum1416.wav",
+  "seed": 1179
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond36_uttNum1414.wav",
+  "seed": 251
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond13_uttNum376.wav",
+  "seed": 187
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond3_uttNum117.wav",
+  "seed": 908
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond9_uttNum302.wav",
+  "seed": 1256
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond35_uttNum1332.wav",
+  "seed": 220
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond4_uttNum87.wav",
+  "seed": 1006
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond1_uttNum882.wav",
+  "seed": 1228
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond26_uttNum996.wav",
+  "seed": 1376
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond5_uttNum196.wav",
+  "seed": 568
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond12_uttNum381.wav",
+  "seed": 1350
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond1_uttNum946.wav",
+  "seed": 136
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond25_uttNum920.wav",
+  "seed": 1079
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond33_uttNum1261.wav",
+  "seed": 0
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond18_uttNum614.wav",
+  "seed": 875
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond1_uttNum305.wav",
+  "seed": 839
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond14_uttNum596.wav",
+  "seed": 535
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond21_uttNum789.wav",
+  "seed": 1022
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond13_uttNum431.wav",
+  "seed": 650
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond13_uttNum367.wav",
+  "seed": 818
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond28_uttNum1031.wav",
+  "seed": 208
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond6_uttNum125.wav",
+  "seed": 7
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond26_uttNum1019.wav",
+  "seed": 802
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond8_uttNum252.wav",
+  "seed": 482
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond36_uttNum1350.wav",
+  "seed": 576
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond8_uttNum348.wav",
+  "seed": 58
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond3_uttNum5.wav",
+  "seed": 1092
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond15_uttNum501.wav",
+  "seed": 1417
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond1_uttNum1001.wav",
+  "seed": 966
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond1_uttNum530.wav",
+  "seed": 1273
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond34_uttNum1208.wav",
+  "seed": 1320
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond35_uttNum1419.wav",
+  "seed": 763
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond8_uttNum340.wav",
+  "seed": 326
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond1_uttNum1377.wav",
+  "seed": 1160
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond17_uttNum699.wav",
+  "seed": 103
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond27_uttNum982.wav",
+  "seed": 1227
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond1_uttNum1138.wav",
+  "seed": 1153
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond21_uttNum766.wav",
+  "seed": 1088
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond36_uttNum1405.wav",
+  "seed": 239
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond1_uttNum1010.wav",
+  "seed": 758
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond13_uttNum463.wav",
+  "seed": 1302
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond23_uttNum939.wav",
+  "seed": 1085
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond1_uttNum1074.wav",
+  "seed": 55
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond29_uttNum1163.wav",
+  "seed": 1124
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond1_uttNum26.wav",
+  "seed": 258
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond2_uttNum67.wav",
+  "seed": 491
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond10_uttNum248.wav",
+  "seed": 327
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond13_uttNum400.wav",
+  "seed": 949
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond1_uttNum1401.wav",
+  "seed": 122
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond8_uttNum324.wav",
+  "seed": 1026
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond32_uttNum1276.wav",
+  "seed": 1248
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond18_uttNum678.wav",
+  "seed": 1282
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond1_uttNum458.wav",
+  "seed": 1028
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond6_uttNum221.wav",
+  "seed": 302
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond1_uttNum66.wav",
+  "seed": 621
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond11_uttNum388.wav",
+  "seed": 130
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond22_uttNum840.wav",
+  "seed": 1120
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond1_uttNum553.wav",
+  "seed": 196
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond25_uttNum848.wav",
+  "seed": 665
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond1_uttNum25.wav",
+  "seed": 630
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond1_uttNum1273.wav",
+  "seed": 286
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond1_uttNum489.wav",
+  "seed": 749
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond8_uttNum332.wav",
+  "seed": 1062
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond7_uttNum128.wav",
+  "seed": 1274
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond36_uttNum1398.wav",
+  "seed": 552
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond15_uttNum485.wav",
+  "seed": 910
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond1_uttNum625.wav",
+  "seed": 1102
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond19_uttNum695.wav",
+  "seed": 1113
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond30_uttNum1189.wav",
+  "seed": 713
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond1_uttNum1346.wav",
+  "seed": 251
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond29_uttNum1179.wav",
+  "seed": 1036
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond7_uttNum191.wav",
+  "seed": 1394
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond1_uttNum1345.wav",
+  "seed": 286
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond3_uttNum30.wav",
+  "seed": 1439
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond22_uttNum832.wav",
+  "seed": 1414
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond1_uttNum841.wav",
+  "seed": 1328
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond1_uttNum610.wav",
+  "seed": 339
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond16_uttNum488.wav",
+  "seed": 1212
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond10_uttNum280.wav",
+  "seed": 255
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond3_uttNum93.wav",
+  "seed": 739
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond10_uttNum311.wav",
+  "seed": 669
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond1_uttNum865.wav",
+  "seed": 356
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond12_uttNum469.wav",
+  "seed": 54
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond30_uttNum1190.wav",
+  "seed": 70
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond16_uttNum528.wav",
+  "seed": 1068
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond1_uttNum186.wav",
+  "seed": 1102
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond1_uttNum298.wav",
+  "seed": 74
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond1_uttNum1425.wav",
+  "seed": 1020
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond1_uttNum265.wav",
+  "seed": 131
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond27_uttNum1078.wav",
+  "seed": 460
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond37_uttNum1383.wav",
+  "seed": 767
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond1_uttNum217.wav",
+  "seed": 1190
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond12_uttNum461.wav",
+  "seed": 538
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond37_uttNum1408.wav",
+  "seed": 1138
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond1_uttNum777.wav",
+  "seed": 309
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond1_uttNum722.wav",
+  "seed": 891
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond35_uttNum1395.wav",
+  "seed": 353
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond1_uttNum1090.wav",
+  "seed": 681
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond3_uttNum38.wav",
+  "seed": 1324
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond31_uttNum1159.wav",
+  "seed": 1181
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond10_uttNum296.wav",
+  "seed": 440
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond32_uttNum1252.wav",
+  "seed": 1268
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond19_uttNum656.wav",
+  "seed": 645
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond4_uttNum111.wav",
+  "seed": 571
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond29_uttNum1164.wav",
+  "seed": 507
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond7_uttNum232.wav",
+  "seed": 1419
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond6_uttNum229.wav",
+  "seed": 1259
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond25_uttNum936.wav",
+  "seed": 435
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond12_uttNum397.wav",
+  "seed": 1309
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond1_uttNum473.wav",
+  "seed": 1437
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond35_uttNum1388.wav",
+  "seed": 1290
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond8_uttNum268.wav",
+  "seed": 1023
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond16_uttNum511.wav",
+  "seed": 121
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond1_uttNum778.wav",
+  "seed": 726
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond1_uttNum482.wav",
+  "seed": 603
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond10_uttNum256.wav",
+  "seed": 1016
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond12_uttNum398.wav",
+  "seed": 422
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond4_uttNum24.wav",
+  "seed": 285
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond1_uttNum738.wav",
+  "seed": 928
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond20_uttNum772.wav",
+  "seed": 64
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond2_uttNum59.wav",
+  "seed": 152
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond20_uttNum724.wav",
+  "seed": 58
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond23_uttNum908.wav",
+  "seed": 893
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond3_uttNum45.wav",
+  "seed": 120
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond4_uttNum80.wav",
+  "seed": 115
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond21_uttNum821.wav",
+  "seed": 812
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond29_uttNum1083.wav",
+  "seed": 1384
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond1_uttNum657.wav",
+  "seed": 738
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond26_uttNum972.wav",
+  "seed": 774
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond28_uttNum1048.wav",
+  "seed": 293
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond19_uttNum712.wav",
+  "seed": 231
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond33_uttNum1229.wav",
+  "seed": 1082
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond8_uttNum316.wav",
+  "seed": 1160
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond27_uttNum1021.wav",
+  "seed": 1053
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond8_uttNum267.wav",
+  "seed": 484
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond1_uttNum409.wav",
+  "seed": 1312
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond2_uttNum92.wav",
+  "seed": 562
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond12_uttNum429.wav",
+  "seed": 841
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond35_uttNum1371.wav",
+  "seed": 683
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond1_uttNum1386.wav",
+  "seed": 1047
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond3_uttNum37.wav",
+  "seed": 1070
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond6_uttNum166.wav",
+  "seed": 858
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond30_uttNum1118.wav",
+  "seed": 437
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond12_uttNum437.wav",
+  "seed": 1023
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond21_uttNum813.wav",
+  "seed": 447
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond18_uttNum645.wav",
+  "seed": 87
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond26_uttNum1059.wav",
+  "seed": 1032
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond13_uttNum368.wav",
+  "seed": 435
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond34_uttNum1287.wav",
+  "seed": 784
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond17_uttNum652.wav",
+  "seed": 957
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond20_uttNum796.wav",
+  "seed": 1392
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond27_uttNum1054.wav",
+  "seed": 313
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond25_uttNum847.wav",
+  "seed": 1267
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond23_uttNum948.wav",
+  "seed": 779
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond1_uttNum218.wav",
+  "seed": 1373
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond5_uttNum220.wav",
+  "seed": 550
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond18_uttNum638.wav",
+  "seed": 609
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond15_uttNum526.wav",
+  "seed": 1122
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond1_uttNum1034.wav",
+  "seed": 752
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond24_uttNum893.wav",
+  "seed": 676
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond16_uttNum560.wav",
+  "seed": 1232
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond9_uttNum318.wav",
+  "seed": 1335
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond1_uttNum65.wav",
+  "seed": 880
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond18_uttNum685.wav",
+  "seed": 538
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond18_uttNum718.wav",
+  "seed": 624
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond12_uttNum382.wav",
+  "seed": 801
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond1_uttNum1065.wav",
+  "seed": 833
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond6_uttNum165.wav",
+  "seed": 955
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond1_uttNum474.wav",
+  "seed": 533
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond6_uttNum237.wav",
+  "seed": 950
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond28_uttNum1024.wav",
+  "seed": 644
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond4_uttNum71.wav",
+  "seed": 127
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond37_uttNum1431.wav",
+  "seed": 736
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond1_uttNum769.wav",
+  "seed": 832
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond2_uttNum44.wav",
+  "seed": 242
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond20_uttNum731.wav",
+  "seed": 157
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond34_uttNum1215.wav",
+  "seed": 1121
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond20_uttNum748.wav",
+  "seed": 116
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond37_uttNum1328.wav",
+  "seed": 1035
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond6_uttNum181.wav",
+  "seed": 441
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond12_uttNum478.wav",
+  "seed": 1439
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond1_uttNum98.wav",
+  "seed": 1253
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond24_uttNum957.wav",
+  "seed": 1407
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond1_uttNum322.wav",
+  "seed": 1206
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond1_uttNum106.wav",
+  "seed": 515
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond20_uttNum732.wav",
+  "seed": 630
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond37_uttNum1399.wav",
+  "seed": 1418
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond10_uttNum272.wav",
+  "seed": 535
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond16_uttNum576.wav",
+  "seed": 858
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond36_uttNum1406.wav",
+  "seed": 208
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond1_uttNum1258.wav",
+  "seed": 1246
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond1_uttNum921.wav",
+  "seed": 901
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond10_uttNum288.wav",
+  "seed": 1335
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond27_uttNum1053.wav",
+  "seed": 388
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond3_uttNum94.wav",
+  "seed": 851
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond1_uttNum1353.wav",
+  "seed": 1089
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond9_uttNum342.wav",
+  "seed": 1381
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond9_uttNum341.wav",
+  "seed": 341
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond26_uttNum1027.wav",
+  "seed": 330
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond30_uttNum1165.wav",
+  "seed": 1342
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond1_uttNum1426.wav",
+  "seed": 1039
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond35_uttNum1348.wav",
+  "seed": 111
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond10_uttNum271.wav",
+  "seed": 1056
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond19_uttNum696.wav",
+  "seed": 840
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond1_uttNum1322.wav",
+  "seed": 1179
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond9_uttNum333.wav",
+  "seed": 1306
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond14_uttNum588.wav",
+  "seed": 165
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond24_uttNum869.wav",
+  "seed": 783
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond1_uttNum1194.wav",
+  "seed": 860
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond32_uttNum1211.wav",
+  "seed": 1218
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond14_uttNum539.wav",
+  "seed": 1235
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond1_uttNum1362.wav",
+  "seed": 443
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond24_uttNum853.wav",
+  "seed": 634
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond17_uttNum692.wav",
+  "seed": 739
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond2_uttNum83.wav",
+  "seed": 178
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond1_uttNum858.wav",
+  "seed": 153
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond6_uttNum134.wav",
+  "seed": 34
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond1_uttNum257.wav",
+  "seed": 1342
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond2_uttNum52.wav",
+  "seed": 1394
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond36_uttNum1357.wav",
+  "seed": 1171
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond28_uttNum1079.wav",
+  "seed": 1183
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond24_uttNum862.wav",
+  "seed": 1062
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond7_uttNum184.wav",
+  "seed": 179
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond1_uttNum89.wav",
+  "seed": 1288
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond4_uttNum88.wav",
+  "seed": 96
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond1_uttNum377.wav",
+  "seed": 1063
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond20_uttNum779.wav",
+  "seed": 159
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond1_uttNum1417.wav",
+  "seed": 774
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond21_uttNum758.wav",
+  "seed": 17
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond5_uttNum163.wav",
+  "seed": 1031
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond34_uttNum1320.wav",
+  "seed": 256
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond1_uttNum361.wav",
+  "seed": 394
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond33_uttNum1221.wav",
+  "seed": 27
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond1_uttNum969.wav",
+  "seed": 728
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond37_uttNum1407.wav",
+  "seed": 1400
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond1_uttNum601.wav",
+  "seed": 561
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond4_uttNum47.wav",
+  "seed": 214
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond17_uttNum691.wav",
+  "seed": 702
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond19_uttNum631.wav",
+  "seed": 797
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond9_uttNum294.wav",
+  "seed": 1161
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond1_uttNum593.wav",
+  "seed": 1250
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond7_uttNum127.wav",
+  "seed": 1414
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond35_uttNum1364.wav",
+  "seed": 155
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond25_uttNum944.wav",
+  "seed": 559
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond14_uttNum555.wav",
+  "seed": 217
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond7_uttNum223.wav",
+  "seed": 271
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond32_uttNum1268.wav",
+  "seed": 1336
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond1_uttNum234.wav",
+  "seed": 819
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond24_uttNum942.wav",
+  "seed": 571
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond23_uttNum892.wav",
+  "seed": 464
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond1_uttNum353.wav",
+  "seed": 769
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond37_uttNum1392.wav",
+  "seed": 576
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond33_uttNum1301.wav",
+  "seed": 1167
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond1_uttNum889.wav",
+  "seed": 541
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond31_uttNum1151.wav",
+  "seed": 331
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond23_uttNum923.wav",
+  "seed": 100
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond5_uttNum188.wav",
+  "seed": 644
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond24_uttNum933.wav",
+  "seed": 639
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond10_uttNum247.wav",
+  "seed": 954
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond28_uttNum1055.wav",
+  "seed": 1270
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond17_uttNum668.wav",
+  "seed": 1064
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond1_uttNum1106.wav",
+  "seed": 296
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond15_uttNum565.wav",
+  "seed": 162
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond1_uttNum866.wav",
+  "seed": 850
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond1_uttNum986.wav",
+  "seed": 207
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond25_uttNum904.wav",
+  "seed": 303
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond1_uttNum1393.wav",
+  "seed": 802
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond31_uttNum1112.wav",
+  "seed": 979
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond37_uttNum1327.wav",
+  "seed": 471
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond7_uttNum183.wav",
+  "seed": 693
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond32_uttNum1251.wav",
+  "seed": 599
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond16_uttNum535.wav",
+  "seed": 640
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond25_uttNum919.wav",
+  "seed": 1399
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond22_uttNum831.wav",
+  "seed": 1395
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond33_uttNum1205.wav",
+  "seed": 298
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond4_uttNum119.wav",
+  "seed": 112
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond30_uttNum1149.wav",
+  "seed": 583
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond15_uttNum590.wav",
+  "seed": 1027
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond1_uttNum1330.wav",
+  "seed": 357
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond26_uttNum1044.wav",
+  "seed": 263
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond34_uttNum1295.wav",
+  "seed": 179
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond16_uttNum487.wav",
+  "seed": 477
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond1_uttNum801.wav",
+  "seed": 386
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond23_uttNum915.wav",
+  "seed": 879
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond1_uttNum306.wav",
+  "seed": 957
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond35_uttNum1404.wav",
+  "seed": 312
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond31_uttNum1104.wav",
+  "seed": 130
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond9_uttNum350.wav",
+  "seed": 760
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond15_uttNum573.wav",
+  "seed": 1116
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond18_uttNum654.wav",
+  "seed": 433
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond14_uttNum484.wav",
+  "seed": 1023
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond6_uttNum141.wav",
+  "seed": 269
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond1_uttNum521.wav",
+  "seed": 401
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond1_uttNum833.wav",
+  "seed": 609
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond1_uttNum545.wav",
+  "seed": 1173
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond27_uttNum1045.wav",
+  "seed": 130
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond22_uttNum736.wav",
+  "seed": 271
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond1_uttNum658.wav",
+  "seed": 1340
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond23_uttNum876.wav",
+  "seed": 392
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond26_uttNum988.wav",
+  "seed": 707
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond13_uttNum456.wav",
+  "seed": 384
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond1_uttNum74.wav",
+  "seed": 1251
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond15_uttNum517.wav",
+  "seed": 1376
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond22_uttNum800.wav",
+  "seed": 557
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond37_uttNum1368.wav",
+  "seed": 596
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond31_uttNum1192.wav",
+  "seed": 719
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond1_uttNum945.wav",
+  "seed": 499
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond1_uttNum890.wav",
+  "seed": 1047
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond17_uttNum675.wav",
+  "seed": 863
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond24_uttNum878.wav",
+  "seed": 39
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond24_uttNum918.wav",
+  "seed": 678
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond17_uttNum627.wav",
+  "seed": 98
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond1_uttNum1297.wav",
+  "seed": 1232
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond16_uttNum519.wav",
+  "seed": 159
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond35_uttNum1355.wav",
+  "seed": 608
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond1_uttNum450.wav",
+  "seed": 399
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond24_uttNum926.wav",
+  "seed": 1259
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond12_uttNum374.wav",
+  "seed": 154
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond1_uttNum249.wav",
+  "seed": 146
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond22_uttNum816.wav",
+  "seed": 1397
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond19_uttNum632.wav",
+  "seed": 1270
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond1_uttNum266.wav",
+  "seed": 693
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond11_uttNum468.wav",
+  "seed": 653
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond27_uttNum973.wav",
+  "seed": 477
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond28_uttNum976.wav",
+  "seed": 5
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond24_uttNum917.wav",
+  "seed": 965
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond1_uttNum506.wav",
+  "seed": 908
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond1_uttNum826.wav",
+  "seed": 18
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond36_uttNum1333.wav",
+  "seed": 693
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond23_uttNum931.wav",
+  "seed": 1287
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond29_uttNum1092.wav",
+  "seed": 410
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond35_uttNum1339.wav",
+  "seed": 954
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond1_uttNum1337.wav",
+  "seed": 65
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond30_uttNum1109.wav",
+  "seed": 756
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond1_uttNum1098.wav",
+  "seed": 765
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond33_uttNum1286.wav",
+  "seed": 1024
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond20_uttNum723.wav",
+  "seed": 1243
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond1_uttNum345.wav",
+  "seed": 1038
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond1_uttNum585.wav",
+  "seed": 351
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond20_uttNum755.wav",
+  "seed": 224
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond15_uttNum534.wav",
+  "seed": 1284
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond1_uttNum17.wav",
+  "seed": 443
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond4_uttNum32.wav",
+  "seed": 540
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond13_uttNum464.wav",
+  "seed": 367
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond37_uttNum1439.wav",
+  "seed": 274
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond10_uttNum312.wav",
+  "seed": 1411
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond11_uttNum476.wav",
+  "seed": 258
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond1_uttNum705.wav",
+  "seed": 927
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond15_uttNum518.wav",
+  "seed": 176
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond20_uttNum740.wav",
+  "seed": 479
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond21_uttNum829.wav",
+  "seed": 240
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond32_uttNum1212.wav",
+  "seed": 619
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond26_uttNum1004.wav",
+  "seed": 1435
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond5_uttNum155.wav",
+  "seed": 157
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond33_uttNum1277.wav",
+  "seed": 1180
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond15_uttNum550.wav",
+  "seed": 269
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond1_uttNum1250.wav",
+  "seed": 468
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond5_uttNum204.wav",
+  "seed": 805
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond4_uttNum39.wav",
+  "seed": 450
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond36_uttNum1413.wav",
+  "seed": 187
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond1_uttNum370.wav",
+  "seed": 200
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond12_uttNum405.wav",
+  "seed": 708
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond10_uttNum352.wav",
+  "seed": 1399
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond30_uttNum1174.wav",
+  "seed": 316
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond24_uttNum925.wav",
+  "seed": 1392
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond29_uttNum1180.wav",
+  "seed": 1037
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond32_uttNum1284.wav",
+  "seed": 436
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond9_uttNum301.wav",
+  "seed": 1118
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond29_uttNum1108.wav",
+  "seed": 738
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond16_uttNum527.wav",
+  "seed": 1211
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond36_uttNum1365.wav",
+  "seed": 1152
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond3_uttNum110.wav",
+  "seed": 1395
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond22_uttNum760.wav",
+  "seed": 62
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond1_uttNum1298.wav",
+  "seed": 1276
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond28_uttNum991.wav",
+  "seed": 1044
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond2_uttNum107.wav",
+  "seed": 479
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond22_uttNum815.wav",
+  "seed": 22
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond8_uttNum323.wav",
+  "seed": 640
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond16_uttNum536.wav",
+  "seed": 1023
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond13_uttNum432.wav",
+  "seed": 866
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond10_uttNum344.wav",
+  "seed": 1183
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond11_uttNum435.wav",
+  "seed": 1265
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond10_uttNum264.wav",
+  "seed": 664
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond11_uttNum444.wav",
+  "seed": 201
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond7_uttNum136.wav",
+  "seed": 542
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond17_uttNum643.wav",
+  "seed": 1109
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond1_uttNum1361.wav",
+  "seed": 1049
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond32_uttNum1227.wav",
+  "seed": 354
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond1_uttNum161.wav",
+  "seed": 967
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond7_uttNum207.wav",
+  "seed": 429
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond25_uttNum952.wav",
+  "seed": 279
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond35_uttNum1380.wav",
+  "seed": 497
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond23_uttNum867.wav",
+  "seed": 735
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond13_uttNum479.wav",
+  "seed": 718
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond32_uttNum1219.wav",
+  "seed": 917
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond29_uttNum1107.wav",
+  "seed": 1014
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond1_uttNum1018.wav",
+  "seed": 1217
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond37_uttNum1360.wav",
+  "seed": 894
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond11_uttNum404.wav",
+  "seed": 602
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond10_uttNum303.wav",
+  "seed": 681
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond1_uttNum242.wav",
+  "seed": 161
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond20_uttNum828.wav",
+  "seed": 185
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond7_uttNum168.wav",
+  "seed": 656
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond1_uttNum994.wav",
+  "seed": 359
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond34_uttNum1319.wav",
+  "seed": 608
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond34_uttNum1232.wav",
+  "seed": 1416
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond25_uttNum864.wav",
+  "seed": 554
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond22_uttNum783.wav",
+  "seed": 597
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond10_uttNum295.wav",
+  "seed": 175
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond7_uttNum160.wav",
+  "seed": 1158
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond9_uttNum254.wav",
+  "seed": 1148
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond1_uttNum58.wav",
+  "seed": 1353
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond5_uttNum139.wav",
+  "seed": 982
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond11_uttNum419.wav",
+  "seed": 249
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond10_uttNum335.wav",
+  "seed": 450
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond21_uttNum798.wav",
+  "seed": 1393
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond19_uttNum664.wav",
+  "seed": 1336
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond35_uttNum1372.wav",
+  "seed": 983
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond33_uttNum1318.wav",
+  "seed": 76
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond33_uttNum1245.wav",
+  "seed": 187
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond31_uttNum1175.wav",
+  "seed": 185
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond7_uttNum199.wav",
+  "seed": 646
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond1_uttNum1113.wav",
+  "seed": 888
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond15_uttNum549.wav",
+  "seed": 35
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond22_uttNum744.wav",
+  "seed": 172
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond18_uttNum693.wav",
+  "seed": 915
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond18_uttNum677.wav",
+  "seed": 1344
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond21_uttNum830.wav",
+  "seed": 743
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond17_uttNum659.wav",
+  "seed": 1119
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond17_uttNum707.wav",
+  "seed": 1229
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond1_uttNum441.wav",
+  "seed": 143
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond1_uttNum146.wav",
+  "seed": 45
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond22_uttNum775.wav",
+  "seed": 459
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond34_uttNum1224.wav",
+  "seed": 946
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond1_uttNum1161.wav",
+  "seed": 1206
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond34_uttNum1239.wav",
+  "seed": 334
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond32_uttNum1260.wav",
+  "seed": 1147
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond33_uttNum1230.wav",
+  "seed": 1153
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond1_uttNum386.wav",
+  "seed": 65
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond1_uttNum753.wav",
+  "seed": 31
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond23_uttNum844.wav",
+  "seed": 1014
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond8_uttNum299.wav",
+  "seed": 62
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond17_uttNum620.wav",
+  "seed": 21
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond1_uttNum1017.wav",
+  "seed": 658
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond1_uttNum786.wav",
+  "seed": 280
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond31_uttNum1167.wav",
+  "seed": 921
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond30_uttNum1198.wav",
+  "seed": 958
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond1_uttNum1129.wav",
+  "seed": 765
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond22_uttNum728.wav",
+  "seed": 828
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond7_uttNum216.wav",
+  "seed": 917
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond19_uttNum640.wav",
+  "seed": 1209
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond2_uttNum75.wav",
+  "seed": 1081
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond1_uttNum602.wav",
+  "seed": 789
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond24_uttNum958.wav",
+  "seed": 1104
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond1_uttNum1249.wav",
+  "seed": 467
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond5_uttNum228.wav",
+  "seed": 137
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond30_uttNum1166.wav",
+  "seed": 1061
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond13_uttNum407.wav",
+  "seed": 910
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond3_uttNum78.wav",
+  "seed": 629
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond1_uttNum1225.wav",
+  "seed": 1066
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond26_uttNum1067.wav",
+  "seed": 1083
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond13_uttNum424.wav",
+  "seed": 388
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond5_uttNum235.wav",
+  "seed": 256
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond1_uttNum809.wav",
+  "seed": 679
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond22_uttNum752.wav",
+  "seed": 340
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond32_uttNum1307.wav",
+  "seed": 443
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond33_uttNum1238.wav",
+  "seed": 395
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond28_uttNum1056.wav",
+  "seed": 1035
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond22_uttNum768.wav",
+  "seed": 292
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond18_uttNum661.wav",
+  "seed": 678
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond17_uttNum715.wav",
+  "seed": 1027
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond1_uttNum202.wav",
+  "seed": 933
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond20_uttNum811.wav",
+  "seed": 1068
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond29_uttNum1124.wav",
+  "seed": 63
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond1_uttNum498.wav",
+  "seed": 1331
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond27_uttNum1038.wav",
+  "seed": 1181
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond18_uttNum621.wav",
+  "seed": 78
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond1_uttNum57.wav",
+  "seed": 610
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond14_uttNum548.wav",
+  "seed": 1078
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond4_uttNum15.wav",
+  "seed": 231
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond20_uttNum756.wav",
+  "seed": 1107
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond35_uttNum1331.wav",
+  "seed": 911
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond33_uttNum1293.wav",
+  "seed": 268
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond1_uttNum49.wav",
+  "seed": 497
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond1_uttNum1033.wav",
+  "seed": 1115
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond1_uttNum73.wav",
+  "seed": 1321
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond1_uttNum170.wav",
+  "seed": 317
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond33_uttNum1213.wav",
+  "seed": 914
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond24_uttNum949.wav",
+  "seed": 304
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond14_uttNum499.wav",
+  "seed": 983
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond23_uttNum899.wav",
+  "seed": 958
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond32_uttNum1220.wav",
+  "seed": 1394
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond11_uttNum436.wav",
+  "seed": 379
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond33_uttNum1254.wav",
+  "seed": 921
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond31_uttNum1096.wav",
+  "seed": 406
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond15_uttNum582.wav",
+  "seed": 985
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond24_uttNum950.wav",
+  "seed": 772
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond4_uttNum23.wav",
+  "seed": 857
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond1_uttNum178.wav",
+  "seed": 1076
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond2_uttNum99.wav",
+  "seed": 29
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond1_uttNum274.wav",
+  "seed": 1206
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond20_uttNum764.wav",
+  "seed": 990
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond32_uttNum1244.wav",
+  "seed": 1320
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond22_uttNum839.wav",
+  "seed": 1355
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond1_uttNum698.wav",
+  "seed": 980
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond33_uttNum1237.wav",
+  "seed": 224
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond9_uttNum286.wav",
+  "seed": 633
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond15_uttNum493.wav",
+  "seed": 409
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond25_uttNum863.wav",
+  "seed": 928
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond1_uttNum426.wav",
+  "seed": 1326
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond1_uttNum1321.wav",
+  "seed": 737
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond16_uttNum495.wav",
+  "seed": 959
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond19_uttNum663.wav",
+  "seed": 509
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond33_uttNum1278.wav",
+  "seed": 1429
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond1_uttNum1049.wav",
+  "seed": 527
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond34_uttNum1288.wav",
+  "seed": 120
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond12_uttNum390.wav",
+  "seed": 519
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond11_uttNum460.wav",
+  "seed": 1196
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond1_uttNum378.wav",
+  "seed": 532
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond1_uttNum169.wav",
+  "seed": 256
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond18_uttNum646.wav",
+  "seed": 911
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond32_uttNum1236.wav",
+  "seed": 892
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond1_uttNum314.wav",
+  "seed": 390
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond1_uttNum850.wav",
+  "seed": 1279
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond1_uttNum818.wav",
+  "seed": 542
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond36_uttNum1334.wav",
+  "seed": 36
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond1_uttNum586.wav",
+  "seed": 277
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond36_uttNum1366.wav",
+  "seed": 124
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond19_uttNum688.wav",
+  "seed": 1366
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond15_uttNum581.wav",
+  "seed": 1282
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond1_uttNum993.wav",
+  "seed": 651
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond1_uttNum194.wav",
+  "seed": 1081
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond1_uttNum673.wav",
+  "seed": 1263
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond1_uttNum1178.wav",
+  "seed": 658
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond18_uttNum702.wav",
+  "seed": 100
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond29_uttNum1100.wav",
+  "seed": 53
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond19_uttNum639.wav",
+  "seed": 376
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond3_uttNum13.wav",
+  "seed": 1212
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond1_uttNum362.wav",
+  "seed": 205
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond23_uttNum955.wav",
+  "seed": 571
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond24_uttNum941.wav",
+  "seed": 324
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond22_uttNum799.wav",
+  "seed": 238
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond22_uttNum767.wav",
+  "seed": 560
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond1_uttNum1233.wav",
+  "seed": 541
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond1_uttNum874.wav",
+  "seed": 813
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond1_uttNum785.wav",
+  "seed": 1373
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond1_uttNum10.wav",
+  "seed": 467
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond30_uttNum1101.wav",
+  "seed": 1284
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond34_uttNum1311.wav",
+  "seed": 779
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond18_uttNum709.wav",
+  "seed": 1423
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond24_uttNum901.wav",
+  "seed": 1081
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond11_uttNum451.wav",
+  "seed": 121
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond9_uttNum317.wav",
+  "seed": 655
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond23_uttNum875.wav",
+  "seed": 1012
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond1_uttNum418.wav",
+  "seed": 806
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond17_uttNum644.wav",
+  "seed": 1251
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond8_uttNum355.wav",
+  "seed": 992
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond4_uttNum16.wav",
+  "seed": 925
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond5_uttNum203.wav",
+  "seed": 1373
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond31_uttNum1103.wav",
+  "seed": 708
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond9_uttNum277.wav",
+  "seed": 982
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond16_uttNum503.wav",
+  "seed": 473
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond32_uttNum1283.wav",
+  "seed": 649
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond7_uttNum175.wav",
+  "seed": 597
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond34_uttNum1247.wav",
+  "seed": 836
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond26_uttNum1068.wav",
+  "seed": 387
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond28_uttNum1072.wav",
+  "seed": 673
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond31_uttNum1183.wav",
+  "seed": 787
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond15_uttNum533.wav",
+  "seed": 958
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond5_uttNum140.wav",
+  "seed": 809
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond11_uttNum387.wav",
+  "seed": 1305
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond1_uttNum1162.wav",
+  "seed": 338
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond26_uttNum995.wav",
+  "seed": 505
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond36_uttNum1429.wav",
+  "seed": 959
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond36_uttNum1438.wav",
+  "seed": 640
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond23_uttNum956.wav",
+  "seed": 1303
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond10_uttNum263.wav",
+  "seed": 388
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond1_uttNum1282.wav",
+  "seed": 588
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond27_uttNum1046.wav",
+  "seed": 1219
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond1_uttNum1121.wav",
+  "seed": 943
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond1_uttNum1242.wav",
+  "seed": 695
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond22_uttNum751.wav",
+  "seed": 527
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond12_uttNum365.wav",
+  "seed": 182
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond1_uttNum250.wav",
+  "seed": 129
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond36_uttNum1374.wav",
+  "seed": 80
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond1_uttNum594.wav",
+  "seed": 827
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond5_uttNum124.wav",
+  "seed": 1055
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond22_uttNum807.wav",
+  "seed": 959
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond1_uttNum338.wav",
+  "seed": 1338
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond1_uttNum633.wav",
+  "seed": 467
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond19_uttNum704.wav",
+  "seed": 855
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond13_uttNum471.wav",
+  "seed": 363
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond27_uttNum1022.wav",
+  "seed": 1297
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond13_uttNum416.wav",
+  "seed": 1154
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond29_uttNum1116.wav",
+  "seed": 1243
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond1_uttNum393.wav",
+  "seed": 320
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond17_uttNum660.wav",
+  "seed": 672
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond6_uttNum206.wav",
+  "seed": 1020
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond5_uttNum211.wav",
+  "seed": 658
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond11_uttNum379.wav",
+  "seed": 810
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond19_uttNum624.wav",
+  "seed": 228
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond30_uttNum1157.wav",
+  "seed": 1131
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond2_uttNum28.wav",
+  "seed": 1378
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond1_uttNum457.wav",
+  "seed": 512
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond27_uttNum966.wav",
+  "seed": 736
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond35_uttNum1347.wav",
+  "seed": 7
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond21_uttNum837.wav",
+  "seed": 681
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond16_uttNum552.wav",
+  "seed": 170
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond23_uttNum883.wav",
+  "seed": 1163
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond11_uttNum364.wav",
+  "seed": 1308
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond15_uttNum525.wav",
+  "seed": 204
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond17_uttNum628.wav",
+  "seed": 1419
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond3_uttNum102.wav",
+  "seed": 158
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond1_uttNum905.wav",
+  "seed": 77
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond29_uttNum1140.wav",
+  "seed": 1025
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond24_uttNum870.wav",
+  "seed": 124
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond12_uttNum445.wav",
+  "seed": 146
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond17_uttNum716.wav",
+  "seed": 49
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond9_uttNum262.wav",
+  "seed": 66
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond1_uttNum746.wav",
+  "seed": 86
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond35_uttNum1403.wav",
+  "seed": 592
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond15_uttNum502.wav",
+  "seed": 1369
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond20_uttNum739.wav",
+  "seed": 1255
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond1_uttNum1409.wav",
+  "seed": 284
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond10_uttNum304.wav",
+  "seed": 1113
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond32_uttNum1316.wav",
+  "seed": 1385
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond11_uttNum428.wav",
+  "seed": 377
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond13_uttNum472.wav",
+  "seed": 509
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond1_uttNum385.wav",
+  "seed": 1249
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond18_uttNum653.wav",
+  "seed": 1042
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond4_uttNum96.wav",
+  "seed": 872
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond8_uttNum356.wav",
+  "seed": 486
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond26_uttNum1011.wav",
+  "seed": 451
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond9_uttNum253.wav",
+  "seed": 1433
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond31_uttNum1176.wav",
+  "seed": 788
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond1_uttNum962.wav",
+  "seed": 561
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond5_uttNum147.wav",
+  "seed": 140
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond6_uttNum182.wav",
+  "seed": 1322
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond1_uttNum666.wav",
+  "seed": 348
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond1_uttNum1041.wav",
+  "seed": 1111
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond20_uttNum803.wav",
+  "seed": 1123
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond8_uttNum291.wav",
+  "seed": 856
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond1_uttNum730.wav",
+  "seed": 308
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond8_uttNum275.wav",
+  "seed": 604
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond36_uttNum1373.wav",
+  "seed": 1272
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond18_uttNum613.wav",
+  "seed": 1155
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond1_uttNum410.wav",
+  "seed": 73
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond17_uttNum604.wav",
+  "seed": 388
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond20_uttNum795.wav",
+  "seed": 1000
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond35_uttNum1363.wav",
+  "seed": 1143
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond20_uttNum771.wav",
+  "seed": 511
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond1_uttNum681.wav",
+  "seed": 1346
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond1_uttNum1209.wav",
+  "seed": 944
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond1_uttNum33.wav",
+  "seed": 610
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond34_uttNum1256.wav",
+  "seed": 239
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond9_uttNum310.wav",
+  "seed": 643
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond3_uttNum118.wav",
+  "seed": 241
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond1_uttNum34.wav",
+  "seed": 144
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond34_uttNum1304.wav",
+  "seed": 1222
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond6_uttNum133.wav",
+  "seed": 1407
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond3_uttNum54.wav",
+  "seed": 215
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond32_uttNum1259.wav",
+  "seed": 22
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond26_uttNum979.wav",
+  "seed": 1245
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond28_uttNum984.wav",
+  "seed": 991
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond35_uttNum1420.wav",
+  "seed": 1092
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond1_uttNum1105.wav",
+  "seed": 1227
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond17_uttNum619.wav",
+  "seed": 752
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond32_uttNum1267.wav",
+  "seed": 54
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond1_uttNum185.wav",
+  "seed": 268
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond1_uttNum1146.wav",
+  "seed": 1206
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond9_uttNum246.wav",
+  "seed": 1144
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond4_uttNum120.wav",
+  "seed": 2
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond1_uttNum898.wav",
+  "seed": 1320
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond35_uttNum1435.wav",
+  "seed": 413
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond26_uttNum1012.wav",
+  "seed": 1296
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond30_uttNum1093.wav",
+  "seed": 1104
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond4_uttNum8.wav",
+  "seed": 1309
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond4_uttNum79.wav",
+  "seed": 627
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond35_uttNum1428.wav",
+  "seed": 591
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond16_uttNum520.wav",
+  "seed": 312
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond7_uttNum143.wav",
+  "seed": 181
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond7_uttNum144.wav",
+  "seed": 684
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond9_uttNum309.wav",
+  "seed": 122
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond22_uttNum759.wav",
+  "seed": 786
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond19_uttNum607.wav",
+  "seed": 336
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond27_uttNum1014.wav",
+  "seed": 163
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond31_uttNum1095.wav",
+  "seed": 779
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond1_uttNum442.wav",
+  "seed": 540
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond18_uttNum622.wav",
+  "seed": 1320
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond7_uttNum231.wav",
+  "seed": 1234
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond3_uttNum53.wav",
+  "seed": 171
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond21_uttNum726.wav",
+  "seed": 1384
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond12_uttNum414.wav",
+  "seed": 6
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond19_uttNum608.wav",
+  "seed": 1147
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond11_uttNum396.wav",
+  "seed": 269
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond7_uttNum135.wav",
+  "seed": 1246
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond17_uttNum676.wav",
+  "seed": 383
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond4_uttNum112.wav",
+  "seed": 1139
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond10_uttNum255.wav",
+  "seed": 178
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond1_uttNum802.wav",
+  "seed": 441
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond16_uttNum575.wav",
+  "seed": 1294
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond1_uttNum402.wav",
+  "seed": 623
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond7_uttNum192.wav",
+  "seed": 1268
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond11_uttNum371.wav",
+  "seed": 388
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond12_uttNum421.wav",
+  "seed": 258
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond1_uttNum522.wav",
+  "seed": 75
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond15_uttNum589.wav",
+  "seed": 280
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond10_uttNum320.wav",
+  "seed": 979
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond3_uttNum46.wav",
+  "seed": 634
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond4_uttNum55.wav",
+  "seed": 948
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond37_uttNum1359.wav",
+  "seed": 611
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond36_uttNum1358.wav",
+  "seed": 212
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond33_uttNum1317.wav",
+  "seed": 662
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond25_uttNum928.wav",
+  "seed": 335
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond1_uttNum570.wav",
+  "seed": 1240
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond1_uttNum617.wav",
+  "seed": 518
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond11_uttNum452.wav",
+  "seed": 1132
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond31_uttNum1144.wav",
+  "seed": 308
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond36_uttNum1325.wav",
+  "seed": 1417
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond8_uttNum284.wav",
+  "seed": 697
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond1_uttNum1210.wav",
+  "seed": 966
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond1_uttNum842.wav",
+  "seed": 909
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond6_uttNum197.wav",
+  "seed": 1086
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond1_uttNum434.wav",
+  "seed": 313
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond1_uttNum562.wav",
+  "seed": 4
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond1_uttNum153.wav",
+  "seed": 226
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond26_uttNum971.wav",
+  "seed": 1238
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond26_uttNum1028.wav",
+  "seed": 316
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond31_uttNum1135.wav",
+  "seed": 1130
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond29_uttNum1147.wav",
+  "seed": 586
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond26_uttNum1020.wav",
+  "seed": 1393
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond16_uttNum592.wav",
+  "seed": 1390
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond1_uttNum1002.wav",
+  "seed": 427
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond37_uttNum1375.wav",
+  "seed": 616
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond1_uttNum961.wav",
+  "seed": 1321
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond29_uttNum1091.wav",
+  "seed": 1433
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond31_uttNum1152.wav",
+  "seed": 267
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond15_uttNum557.wav",
+  "seed": 912
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond1_uttNum82.wav",
+  "seed": 188
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond6_uttNum174.wav",
+  "seed": 421
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond1_uttNum337.wav",
+  "seed": 454
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond32_uttNum1292.wav",
+  "seed": 461
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond1_uttNum369.wav",
+  "seed": 1260
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond3_uttNum69.wav",
+  "seed": 39
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond6_uttNum157.wav",
+  "seed": 169
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond32_uttNum1228.wav",
+  "seed": 680
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond14_uttNum564.wav",
+  "seed": 145
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond1_uttNum689.wav",
+  "seed": 218
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond1_uttNum225.wav",
+  "seed": 729
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond3_uttNum61.wav",
+  "seed": 1313
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond2_uttNum76.wav",
+  "seed": 260
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond1_uttNum2.wav",
+  "seed": 1372
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond1_uttNum618.wav",
+  "seed": 484
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond10_uttNum343.wav",
+  "seed": 1157
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond21_uttNum822.wav",
+  "seed": 242
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond31_uttNum1111.wav",
+  "seed": 1351
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond1_uttNum1009.wav",
+  "seed": 175
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond35_uttNum1387.wav",
+  "seed": 1324
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond25_uttNum895.wav",
+  "seed": 352
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond7_uttNum224.wav",
+  "seed": 1269
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond3_uttNum22.wav",
+  "seed": 211
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond28_uttNum1016.wav",
+  "seed": 112
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond21_uttNum805.wav",
+  "seed": 1342
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond30_uttNum1086.wav",
+  "seed": 1318
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond14_uttNum532.wav",
+  "seed": 1048
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond34_uttNum1303.wav",
+  "seed": 1324
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond5_uttNum212.wav",
+  "seed": 1379
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond26_uttNum1043.wav",
+  "seed": 867
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond1_uttNum18.wav",
+  "seed": 1317
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond11_uttNum403.wav",
+  "seed": 1019
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond13_uttNum480.wav",
+  "seed": 862
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond15_uttNum597.wav",
+  "seed": 1074
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond10_uttNum287.wav",
+  "seed": 1404
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond17_uttNum708.wav",
+  "seed": 1291
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond1_uttNum1306.wav",
+  "seed": 789
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond25_uttNum912.wav",
+  "seed": 38
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond1_uttNum1394.wav",
+  "seed": 634
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond1_uttNum745.wav",
+  "seed": 969
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond22_uttNum743.wav",
+  "seed": 377
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond7_uttNum176.wav",
+  "seed": 786
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond3_uttNum77.wav",
+  "seed": 582
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond14_uttNum563.wav",
+  "seed": 157
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond14_uttNum531.wav",
+  "seed": 866
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond1_uttNum810.wav",
+  "seed": 812
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond1_uttNum1265.wav",
+  "seed": 812
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond13_uttNum440.wav",
+  "seed": 433
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond1_uttNum914.wav",
+  "seed": 1179
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond4_uttNum63.wav",
+  "seed": 1021
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond1_uttNum737.wav",
+  "seed": 89
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond30_uttNum1182.wav",
+  "seed": 915
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond17_uttNum611.wav",
+  "seed": 347
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond14_uttNum571.wav",
+  "seed": 1127
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond19_uttNum616.wav",
+  "seed": 988
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond29_uttNum1155.wav",
+  "seed": 1182
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond4_uttNum31.wav",
+  "seed": 200
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond1_uttNum354.wav",
+  "seed": 1030
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond26_uttNum1076.wav",
+  "seed": 736
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond25_uttNum879.wav",
+  "seed": 290
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond16_uttNum600.wav",
+  "seed": 172
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond16_uttNum543.wav",
+  "seed": 923
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond22_uttNum824.wav",
+  "seed": 605
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond1_uttNum113.wav",
+  "seed": 408
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond5_uttNum187.wav",
+  "seed": 94
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond33_uttNum1270.wav",
+  "seed": 251
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond34_uttNum1240.wav",
+  "seed": 720
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond2_uttNum100.wav",
+  "seed": 1432
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond16_uttNum568.wav",
+  "seed": 1175
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond15_uttNum541.wav",
+  "seed": 384
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond25_uttNum887.wav",
+  "seed": 805
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond1_uttNum1370.wav",
+  "seed": 436
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond1_uttNum1369.wav",
+  "seed": 165
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond1_uttNum513.wav",
+  "seed": 57
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond14_uttNum556.wav",
+  "seed": 171
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond22_uttNum784.wav",
+  "seed": 492
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond16_uttNum559.wav",
+  "seed": 415
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond24_uttNum910.wav",
+  "seed": 908
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond31_uttNum1184.wav",
+  "seed": 668
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond33_uttNum1222.wav",
+  "seed": 910
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond1_uttNum209.wav",
+  "seed": 1268
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond31_uttNum1168.wav",
+  "seed": 1263
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond1_uttNum529.wav",
+  "seed": 1237
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond37_uttNum1440.wav",
+  "seed": 212
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond10_uttNum336.wav",
+  "seed": 1226
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond1_uttNum282.wav",
+  "seed": 603
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond2_uttNum51.wav",
+  "seed": 1188
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond1_uttNum394.wav",
+  "seed": 803
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond9_uttNum245.wav",
+  "seed": 1058
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond11_uttNum395.wav",
+  "seed": 658
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond2_uttNum11.wav",
+  "seed": 627
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond20_uttNum747.wav",
+  "seed": 440
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond1_uttNum873.wav",
+  "seed": 145
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond1_uttNum1202.wav",
+  "seed": 1198
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond10_uttNum360.wav",
+  "seed": 808
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond1_uttNum649.wav",
+  "seed": 496
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond22_uttNum808.wav",
+  "seed": 429
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond1_uttNum1257.wav",
+  "seed": 590
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond7_uttNum215.wav",
+  "seed": 766
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond7_uttNum200.wav",
+  "seed": 1088
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond1_uttNum1434.wav",
+  "seed": 1268
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond24_uttNum877.wav",
+  "seed": 1365
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond21_uttNum790.wav",
+  "seed": 469
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond1_uttNum233.wav",
+  "seed": 834
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond21_uttNum749.wav",
+  "seed": 655
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond27_uttNum989.wav",
+  "seed": 726
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond1_uttNum1050.wav",
+  "seed": 152
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond23_uttNum852.wav",
+  "seed": 586
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond1_uttNum449.wav",
+  "seed": 491
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond26_uttNum1075.wav",
+  "seed": 425
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond1_uttNum977.wav",
+  "seed": 991
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond8_uttNum315.wav",
+  "seed": 1135
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond35_uttNum1412.wav",
+  "seed": 231
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond18_uttNum710.wav",
+  "seed": 133
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond1_uttNum929.wav",
+  "seed": 299
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond13_uttNum399.wav",
+  "seed": 535
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond4_uttNum104.wav",
+  "seed": 763
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond9_uttNum293.wav",
+  "seed": 212
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond26_uttNum1052.wav",
+  "seed": 871
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond21_uttNum757.wav",
+  "seed": 57
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond17_uttNum636.wav",
+  "seed": 315
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond31_uttNum1200.wav",
+  "seed": 547
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond20_uttNum820.wav",
+  "seed": 537
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond1_uttNum714.wav",
+  "seed": 807
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond3_uttNum62.wav",
+  "seed": 121
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond7_uttNum239.wav",
+  "seed": 699
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond1_uttNum674.wav",
+  "seed": 241
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond17_uttNum683.wav",
+  "seed": 1115
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond1_uttNum682.wav",
+  "seed": 859
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond3_uttNum21.wav",
+  "seed": 132
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond34_uttNum1296.wav",
+  "seed": 1032
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond20_uttNum804.wav",
+  "seed": 931
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond31_uttNum1191.wav",
+  "seed": 191
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond1_uttNum538.wav",
+  "seed": 698
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond1_uttNum1329.wav",
+  "seed": 629
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond37_uttNum1343.wav",
+  "seed": 126
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond27_uttNum997.wav",
+  "seed": 1008
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond23_uttNum891.wav",
+  "seed": 232
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond1_uttNum1082.wav",
+  "seed": 96
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond2_uttNum116.wav",
+  "seed": 1172
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond1_uttNum1073.wav",
+  "seed": 275
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond1_uttNum497.wav",
+  "seed": 1420
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond27_uttNum1006.wav",
+  "seed": 411
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond34_uttNum1263.wav",
+  "seed": 943
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond34_uttNum1272.wav",
+  "seed": 1340
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond9_uttNum270.wav",
+  "seed": 140
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond1_uttNum1057.wav",
+  "seed": 237
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond1_uttNum1314.wav",
+  "seed": 674
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond31_uttNum1088.wav",
+  "seed": 1276
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond21_uttNum741.wav",
+  "seed": 613
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond14_uttNum572.wav",
+  "seed": 849
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond1_uttNum1058.wav",
+  "seed": 562
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond8_uttNum244.wav",
+  "seed": 1087
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond34_uttNum1207.wav",
+  "seed": 36
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond30_uttNum1197.wav",
+  "seed": 110
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond1_uttNum121.wav",
+  "seed": 1240
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond19_uttNum687.wav",
+  "seed": 641
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond21_uttNum734.wav",
+  "seed": 1097
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond22_uttNum823.wav",
+  "seed": 87
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond17_uttNum612.wav",
+  "seed": 1053
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond1_uttNum762.wav",
+  "seed": 241
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond13_uttNum392.wav",
+  "seed": 1338
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond20_uttNum788.wav",
+  "seed": 1356
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond10_uttNum327.wav",
+  "seed": 484
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond21_uttNum733.wav",
+  "seed": 822
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond4_uttNum56.wav",
+  "seed": 247
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond26_uttNum1035.wav",
+  "seed": 1024
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond30_uttNum1126.wav",
+  "seed": 213
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond35_uttNum1396.wav",
+  "seed": 672
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond26_uttNum980.wav",
+  "seed": 817
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond7_uttNum152.wav",
+  "seed": 1087
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond24_uttNum894.wav",
+  "seed": 174
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond8_uttNum276.wav",
+  "seed": 1232
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond1_uttNum177.wav",
+  "seed": 1066
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond1_uttNum1290.wav",
+  "seed": 1268
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond1_uttNum577.wav",
+  "seed": 537
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond2_uttNum43.wav",
+  "seed": 350
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond24_uttNum902.wav",
+  "seed": 984
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond21_uttNum774.wav",
+  "seed": 533
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond25_uttNum903.wav",
+  "seed": 890
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond1_uttNum578.wav",
+  "seed": 762
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond28_uttNum975.wav",
+  "seed": 848
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond19_uttNum671.wav",
+  "seed": 1100
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond1_uttNum226.wav",
+  "seed": 576
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond1_uttNum273.wav",
+  "seed": 1153
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond3_uttNum86.wav",
+  "seed": 712
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond1_uttNum1177.wav",
+  "seed": 514
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond14_uttNum579.wav",
+  "seed": 734
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond35_uttNum1356.wav",
+  "seed": 512
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond13_uttNum448.wav",
+  "seed": 340
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond19_uttNum680.wav",
+  "seed": 687
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond1_uttNum1281.wav",
+  "seed": 214
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond32_uttNum1300.wav",
+  "seed": 1349
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond35_uttNum1411.wav",
+  "seed": 795
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond18_uttNum606.wav",
+  "seed": 1008
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond1_uttNum281.wav",
+  "seed": 1188
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond17_uttNum667.wav",
+  "seed": 158
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond25_uttNum888.wav",
+  "seed": 1316
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond26_uttNum1051.wav",
+  "seed": 197
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond36_uttNum1342.wav",
+  "seed": 1346
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond2_uttNum68.wav",
+  "seed": 852
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond37_uttNum1344.wav",
+  "seed": 662
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond27_uttNum1037.wav",
+  "seed": 420
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond17_uttNum651.wav",
+  "seed": 1108
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond1_uttNum537.wav",
+  "seed": 772
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond18_uttNum686.wav",
+  "seed": 905
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond36_uttNum1437.wav",
+  "seed": 73
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond28_uttNum967.wav",
+  "seed": 242
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond23_uttNum916.wav",
+  "seed": 656
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond5_uttNum180.wav",
+  "seed": 756
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond27_uttNum1013.wav",
+  "seed": 333
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond6_uttNum238.wav",
+  "seed": 744
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond21_uttNum781.wav",
+  "seed": 1389
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond3_uttNum70.wav",
+  "seed": 384
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond13_uttNum384.wav",
+  "seed": 50
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond16_uttNum591.wav",
+  "seed": 716
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond9_uttNum334.wav",
+  "seed": 396
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond28_uttNum1064.wav",
+  "seed": 771
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond17_uttNum635.wav",
+  "seed": 1053
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond25_uttNum871.wav",
+  "seed": 224
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond25_uttNum872.wav",
+  "seed": 464
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond28_uttNum1015.wav",
+  "seed": 1223
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond29_uttNum1156.wav",
+  "seed": 447
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond1_uttNum1354.wav",
+  "seed": 225
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond12_uttNum453.wav",
+  "seed": 1339
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond8_uttNum260.wav",
+  "seed": 1310
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond5_uttNum179.wav",
+  "seed": 1031
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond1_uttNum569.wav",
+  "seed": 806
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond27_uttNum1077.wav",
+  "seed": 121
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond30_uttNum1094.wav",
+  "seed": 793
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond2_uttNum36.wav",
+  "seed": 225
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond4_uttNum7.wav",
+  "seed": 1045
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond3_uttNum85.wav",
+  "seed": 469
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond1_uttNum794.wav",
+  "seed": 66
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond10_uttNum351.wav",
+  "seed": 122
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond1_uttNum1114.wav",
+  "seed": 529
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond20_uttNum819.wav",
+  "seed": 459
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond31_uttNum1136.wav",
+  "seed": 416
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond1_uttNum793.wav",
+  "seed": 373
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond26_uttNum1003.wav",
+  "seed": 299
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond1_uttNum1378.wav",
+  "seed": 964
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond27_uttNum998.wav",
+  "seed": 1149
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond1_uttNum1026.wav",
+  "seed": 317
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond36_uttNum1341.wav",
+  "seed": 1018
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond1_uttNum9.wav",
+  "seed": 760
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond8_uttNum259.wav",
+  "seed": 16
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond11_uttNum412.wav",
+  "seed": 1423
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond18_uttNum629.wav",
+  "seed": 1278
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond10_uttNum279.wav",
+  "seed": 974
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond5_uttNum171.wav",
+  "seed": 1174
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond11_uttNum459.wav",
+  "seed": 846
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond25_uttNum896.wav",
+  "seed": 356
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond12_uttNum373.wav",
+  "seed": 436
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond1_uttNum1137.wav",
+  "seed": 749
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond17_uttNum700.wav",
+  "seed": 993
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond1_uttNum465.wav",
+  "seed": 362
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond15_uttNum509.wav",
+  "seed": 498
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond1_uttNum1274.wav",
+  "seed": 1382
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond8_uttNum308.wav",
+  "seed": 1093
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond1_uttNum210.wav",
+  "seed": 1087
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond19_uttNum720.wav",
+  "seed": 219
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond1_uttNum321.wav",
+  "seed": 1409
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond18_uttNum669.wav",
+  "seed": 165
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond37_uttNum1384.wav",
+  "seed": 945
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond14_uttNum540.wav",
+  "seed": 33
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond22_uttNum791.wav",
+  "seed": 945
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond16_uttNum584.wav",
+  "seed": 637
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond27_uttNum1061.wav",
+  "seed": 14
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond1_uttNum290.wav",
+  "seed": 1146
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond12_uttNum389.wav",
+  "seed": 434
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond1_uttNum626.wav",
+  "seed": 510
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond23_uttNum900.wav",
+  "seed": 769
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond4_uttNum72.wav",
+  "seed": 563
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond28_uttNum992.wav",
+  "seed": 312
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond1_uttNum1186.wav",
+  "seed": 517
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond28_uttNum1080.wav",
+  "seed": 1120
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond8_uttNum307.wav",
+  "seed": 215
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond1_uttNum297.wav",
+  "seed": 526
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond34_uttNum1280.wav",
+  "seed": 1339
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond1_uttNum1122.wav",
+  "seed": 989
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond1_uttNum90.wav",
+  "seed": 1238
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond1_uttNum1097.wav",
+  "seed": 873
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond15_uttNum558.wav",
+  "seed": 1362
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond33_uttNum1294.wav",
+  "seed": 1328
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond26_uttNum963.wav",
+  "seed": 804
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond24_uttNum934.wav",
+  "seed": 892
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond6_uttNum150.wav",
+  "seed": 1059
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond36_uttNum1382.wav",
+  "seed": 297
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond37_uttNum1424.wav",
+  "seed": 343
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond11_uttNum443.wav",
+  "seed": 688
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond1_uttNum1145.wav",
+  "seed": 9
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond1_uttNum122.wav",
+  "seed": 720
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond1_uttNum1266.wav",
+  "seed": 1307
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond25_uttNum935.wav",
+  "seed": 723
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond19_uttNum672.wav",
+  "seed": 1079
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond23_uttNum932.wav",
+  "seed": 772
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond28_uttNum1063.wav",
+  "seed": 1
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond30_uttNum1133.wav",
+  "seed": 101
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond1_uttNum417.wav",
+  "seed": 1012
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond1_uttNum1289.wav",
+  "seed": 1217
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond21_uttNum838.wav",
+  "seed": 1260
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond1_uttNum706.wav",
+  "seed": 1277
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond1_uttNum50.wav",
+  "seed": 906
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond5_uttNum156.wav",
+  "seed": 394
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond13_uttNum447.wav",
+  "seed": 303
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond33_uttNum1269.wav",
+  "seed": 1386
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond2_uttNum91.wav",
+  "seed": 274
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond35_uttNum1323.wav",
+  "seed": 814
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond28_uttNum1071.wav",
+  "seed": 1080
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond27_uttNum1070.wav",
+  "seed": 1238
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond3_uttNum109.wav",
+  "seed": 854
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond15_uttNum574.wav",
+  "seed": 1231
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond30_uttNum1141.wav",
+  "seed": 638
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond20_uttNum780.wav",
+  "seed": 1034
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond37_uttNum1423.wav",
+  "seed": 245
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond22_uttNum735.wav",
+  "seed": 847
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond1_uttNum754.wav",
+  "seed": 551
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond1_uttNum346.wav",
+  "seed": 803
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond24_uttNum846.wav",
+  "seed": 679
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond11_uttNum475.wav",
+  "seed": 771
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond19_uttNum655.wav",
+  "seed": 1207
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond1_uttNum490.wav",
+  "seed": 568
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond13_uttNum423.wav",
+  "seed": 866
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond23_uttNum947.wav",
+  "seed": 1215
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond36_uttNum1389.wav",
+  "seed": 930
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond33_uttNum1262.wav",
+  "seed": 570
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond11_uttNum411.wav",
+  "seed": 732
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond11_uttNum372.wav",
+  "seed": 991
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond1_uttNum761.wav",
+  "seed": 49
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond34_uttNum1255.wav",
+  "seed": 380
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond1_uttNum697.wav",
+  "seed": 505
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond35_uttNum1324.wav",
+  "seed": 1234
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond24_uttNum845.wav",
+  "seed": 562
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond12_uttNum422.wav",
+  "seed": 84
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond19_uttNum703.wav",
+  "seed": 644
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond6_uttNum173.wav",
+  "seed": 49
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond24_uttNum854.wav",
+  "seed": 91
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond23_uttNum884.wav",
+  "seed": 1001
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond35_uttNum1427.wav",
+  "seed": 508
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond24_uttNum909.wav",
+  "seed": 245
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond5_uttNum195.wav",
+  "seed": 884
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond17_uttNum684.wav",
+  "seed": 229
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond20_uttNum812.wav",
+  "seed": 704
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond14_uttNum507.wav",
+  "seed": 260
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond29_uttNum1139.wav",
+  "seed": 296
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond19_uttNum623.wav",
+  "seed": 1387
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond4_uttNum48.wav",
+  "seed": 409
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond18_uttNum637.wav",
+  "seed": 1261
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond22_uttNum776.wav",
+  "seed": 257
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond15_uttNum566.wav",
+  "seed": 80
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond14_uttNum580.wav",
+  "seed": 717
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond1_uttNum906.wav",
+  "seed": 217
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond9_uttNum261.wav",
+  "seed": 1132
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond1_uttNum978.wav",
+  "seed": 1402
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond21_uttNum725.wav",
+  "seed": 40
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond1_uttNum937.wav",
+  "seed": 569
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond31_uttNum1119.wav",
+  "seed": 568
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond2_uttNum115.wav",
+  "seed": 46
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond13_uttNum455.wav",
+  "seed": 1240
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond30_uttNum1085.wav",
+  "seed": 1205
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond5_uttNum164.wav",
+  "seed": 1166
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond20_uttNum763.wav",
+  "seed": 695
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond1_uttNum114.wav",
+  "seed": 1085
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond14_uttNum595.wav",
+  "seed": 234
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond1_uttNum650.wav",
+  "seed": 1342
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond2_uttNum27.wav",
+  "seed": 335
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond37_uttNum1432.wav",
+  "seed": 188
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond1_uttNum849.wav",
+  "seed": 1392
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond25_uttNum943.wav",
+  "seed": 1081
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond1_uttNum193.wav",
+  "seed": 1315
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond36_uttNum1421.wav",
+  "seed": 1408
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond19_uttNum679.wav",
+  "seed": 1127
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond23_uttNum859.wav",
+  "seed": 656
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond2_uttNum4.wav",
+  "seed": 386
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond18_uttNum670.wav",
+  "seed": 540
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond19_uttNum711.wav",
+  "seed": 115
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond18_uttNum605.wav",
+  "seed": 974
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond30_uttNum1102.wav",
+  "seed": 1358
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond12_uttNum413.wav",
+  "seed": 126
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond14_uttNum516.wav",
+  "seed": 1303
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond29_uttNum1132.wav",
+  "seed": 149
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond6_uttNum213.wav",
+  "seed": 1421
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond5_uttNum131.wav",
+  "seed": 985
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond14_uttNum547.wav",
+  "seed": 443
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond32_uttNum1275.wav",
+  "seed": 1142
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond18_uttNum717.wav",
+  "seed": 1197
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond30_uttNum1125.wav",
+  "seed": 759
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond34_uttNum1223.wav",
+  "seed": 1217
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond31_uttNum1143.wav",
+  "seed": 1324
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond32_uttNum1308.wav",
+  "seed": 537
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond1_uttNum330.wav",
+  "seed": 1325
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond26_uttNum964.wav",
+  "seed": 26
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond2_uttNum108.wav",
+  "seed": 759
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond7_uttNum167.wav",
+  "seed": 1010
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond31_uttNum1128.wav",
+  "seed": 6
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond37_uttNum1352.wav",
+  "seed": 1346
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos2_noiseCond8_uttNum331.wav",
+  "seed": 558
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond1_uttNum41.wav",
+  "seed": 598
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond16_uttNum544.wav",
+  "seed": 589
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond24_uttNum861.wav",
+  "seed": 714
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond6_uttNum149.wav",
+  "seed": 430
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond1_uttNum1130.wav",
+  "seed": 1083
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond1_uttNum561.wav",
+  "seed": 1388
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond14_uttNum524.wav",
+  "seed": 625
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond27_uttNum990.wav",
+  "seed": 537
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond27_uttNum1005.wav",
+  "seed": 837
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond24_uttNum885.wav",
+  "seed": 1250
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond33_uttNum1310.wav",
+  "seed": 402
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond21_uttNum742.wav",
+  "seed": 654
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond1_uttNum1169.wav",
+  "seed": 703
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond36_uttNum1397.wav",
+  "seed": 312
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond2_uttNum35.wav",
+  "seed": 1014
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond28_uttNum1047.wav",
+  "seed": 1220
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond18_uttNum630.wav",
+  "seed": 1243
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond8_uttNum300.wav",
+  "seed": 969
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond12_uttNum430.wav",
+  "seed": 582
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond31_uttNum1087.wav",
+  "seed": 760
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond26_uttNum1060.wav",
+  "seed": 304
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond7_uttNum208.wav",
+  "seed": 358
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond29_uttNum1115.wav",
+  "seed": 405
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond20_uttNum827.wav",
+  "seed": 1305
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond3_uttNum6.wav",
+  "seed": 765
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond30_uttNum1173.wav",
+  "seed": 683
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond15_uttNum494.wav",
+  "seed": 56
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond25_uttNum951.wav",
+  "seed": 112
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond29_uttNum1099.wav",
+  "seed": 300
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond11_uttNum380.wav",
+  "seed": 659
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond19_uttNum647.wav",
+  "seed": 600
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond1_uttNum145.wav",
+  "seed": 803
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond16_uttNum583.wav",
+  "seed": 1193
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond4_uttNum64.wav",
+  "seed": 1282
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond30_uttNum1117.wav",
+  "seed": 712
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond1_uttNum258.wav",
+  "seed": 1100
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond31_uttNum1160.wav",
+  "seed": 497
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond6_uttNum126.wav",
+  "seed": 1230
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond29_uttNum1123.wav",
+  "seed": 1187
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond1_uttNum137.wav",
+  "seed": 942
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond6_uttNum189.wav",
+  "seed": 917
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond1_uttNum609.wav",
+  "seed": 1153
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond11_uttNum467.wav",
+  "seed": 142
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond21_uttNum750.wav",
+  "seed": 1191
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond28_uttNum1008.wav",
+  "seed": 103
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond1_uttNum1042.wav",
+  "seed": 1072
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond21_uttNum773.wav",
+  "seed": 267
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond2_uttNum12.wav",
+  "seed": 114
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond37_uttNum1335.wav",
+  "seed": 521
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond1_uttNum1418.wav",
+  "seed": 872
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond9_uttNum358.wav",
+  "seed": 548
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond1_uttNum1226.wav",
+  "seed": 165
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond1_uttNum201.wav",
+  "seed": 1267
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond14_uttNum491.wav",
+  "seed": 313
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond11_uttNum420.wav",
+  "seed": 63
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond28_uttNum983.wav",
+  "seed": 865
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond16_uttNum512.wav",
+  "seed": 986
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond34_uttNum1271.wav",
+  "seed": 1239
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond1_uttNum641.wav",
+  "seed": 922
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond36_uttNum1326.wav",
+  "seed": 492
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond1_uttNum985.wav",
+  "seed": 1029
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond23_uttNum907.wav",
+  "seed": 1092
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos3_noiseCond1_uttNum897.wav",
+  "seed": 504
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos4_noiseCond30_uttNum1110.wav",
+  "seed": 672
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond29_uttNum1131.wav",
+  "seed": 180
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond12_uttNum454.wav",
+  "seed": 85
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond35_uttNum1379.wav",
+  "seed": 372
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond36_uttNum1430.wav",
+  "seed": 197
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond28_uttNum1039.wav",
+  "seed": 229
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond32_uttNum1235.wav",
+  "seed": 726
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond9_uttNum285.wav",
+  "seed": 591
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond19_uttNum615.wav",
+  "seed": 1219
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond1_uttNum401.wav",
+  "seed": 157
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond35_uttNum1436.wav",
+  "seed": 1194
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos2_noiseCond13_uttNum415.wav",
+  "seed": 93
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond10_uttNum359.wav",
+  "seed": 669
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond31_uttNum1127.wav",
+  "seed": 957
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond33_uttNum1214.wav",
+  "seed": 1310
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond32_uttNum1315.wav",
+  "seed": 1431
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond23_uttNum851.wav",
+  "seed": 86
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond30_uttNum1181.wav",
+  "seed": 680
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond32_uttNum1291.wav",
+  "seed": 694
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond21_uttNum765.wav",
+  "seed": 1154
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond23_uttNum940.wav",
+  "seed": 242
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond35_uttNum1340.wav",
+  "seed": 478
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond1_uttNum433.wav",
+  "seed": 295
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond37_uttNum1376.wav",
+  "seed": 740
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond24_uttNum886.wav",
+  "seed": 483
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond18_uttNum662.wav",
+  "seed": 727
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond36_uttNum1390.wav",
+  "seed": 62
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond19_uttNum648.wav",
+  "seed": 389
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond1_uttNum881.wav",
+  "seed": 769
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond1_uttNum665.wav",
+  "seed": 275
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos4_noiseCond1_uttNum546.wav",
+  "seed": 283
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond13_uttNum375.wav",
+  "seed": 1418
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond34_uttNum1264.wav",
+  "seed": 803
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond1_uttNum138.wav",
+  "seed": 1262
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond31_uttNum1120.wav",
+  "seed": 517
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond30_uttNum1158.wav",
+  "seed": 149
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond1_uttNum42.wav",
+  "seed": 208
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond30_uttNum1134.wav",
+  "seed": 381
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond30_uttNum1142.wav",
+  "seed": 119
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos1_noiseCond8_uttNum283.wav",
+  "seed": 837
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond15_uttNum598.wav",
+  "seed": 114
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond8_uttNum347.wav",
+  "seed": 1021
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond27_uttNum1069.wav",
+  "seed": 1240
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond1_uttNum1081.wav",
+  "seed": 385
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond5_uttNum219.wav",
+  "seed": 14
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM1_speakerPos3_noiseCond2_uttNum60.wav",
+  "seed": 298
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond1_uttNum834.wav",
+  "seed": 359
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond1_uttNum721.wav",
+  "seed": 1433
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond1_uttNum505.wav",
+  "seed": 242
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond16_uttNum567.wav",
+  "seed": 1292
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos3_noiseCond2_uttNum20.wav",
+  "seed": 107
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond1_uttNum713.wav",
+  "seed": 932
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond12_uttNum366.wav",
+  "seed": 997
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond1_uttNum690.wav",
+  "seed": 1113
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos4_noiseCond1_uttNum825.wav",
+  "seed": 1333
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond7_uttNum159.wav",
+  "seed": 515
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond9_uttNum325.wav",
+  "seed": 882
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond13_uttNum439.wav",
+  "seed": 851
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond2_uttNum84.wav",
+  "seed": 1312
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond1_uttNum81.wav",
+  "seed": 1107
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond27_uttNum1062.wav",
+  "seed": 272
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos3_noiseCond1_uttNum817.wav",
+  "seed": 619
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos5_noiseCond28_uttNum1000.wav",
+  "seed": 238
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond29_uttNum1195.wav",
+  "seed": 1312
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond29_uttNum1171.wav",
+  "seed": 313
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond25_uttNum911.wav",
+  "seed": 813
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond23_uttNum860.wav",
+  "seed": 255
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond37_uttNum1391.wav",
+  "seed": 133
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond17_uttNum603.wav",
+  "seed": 740
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond27_uttNum981.wav",
+  "seed": 1245
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond1_uttNum130.wav",
+  "seed": 1034
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos4_noiseCond26_uttNum987.wav",
+  "seed": 94
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond37_uttNum1367.wav",
+  "seed": 355
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos5_noiseCond7_uttNum240.wav",
+  "seed": 844
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond22_uttNum727.wav",
+  "seed": 1226
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond25_uttNum959.wav",
+  "seed": 482
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond32_uttNum1204.wav",
+  "seed": 1024
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos3_noiseCond15_uttNum542.wav",
+  "seed": 1157
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond19_uttNum719.wav",
+  "seed": 529
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos5_noiseCond20_uttNum836.wav",
+  "seed": 23
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond1_uttNum970.wav",
+  "seed": 553
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos2_noiseCond18_uttNum694.wav",
+  "seed": 772
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond22_uttNum792.wav",
+  "seed": 310
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond1_uttNum1025.wav",
+  "seed": 809
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos2_noiseCond5_uttNum172.wav",
+  "seed": 587
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond26_uttNum1036.wav",
+  "seed": 769
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos3_noiseCond1_uttNum857.wav",
+  "seed": 1132
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond2_uttNum3.wav",
+  "seed": 231
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond34_uttNum1216.wav",
+  "seed": 897
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond12_uttNum438.wav",
+  "seed": 1235
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond34_uttNum1312.wav",
+  "seed": 480
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond18_uttNum701.wav",
+  "seed": 30
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos2_noiseCond14_uttNum492.wav",
+  "seed": 68
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos2_noiseCond33_uttNum1253.wav",
+  "seed": 808
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond1_uttNum1.wav",
+  "seed": 1328
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond20_uttNum787.wav",
+  "seed": 808
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond1_uttNum481.wav",
+  "seed": 1066
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond12_uttNum406.wav",
+  "seed": 238
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond10_uttNum328.wav",
+  "seed": 1111
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond6_uttNum198.wav",
+  "seed": 389
+ },
+ {
+  "path": "home2_room3_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond1_uttNum642.wav",
+  "seed": 534
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond1_uttNum922.wav",
+  "seed": 802
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM1_speakerPos4_noiseCond6_uttNum190.wav",
+  "seed": 221
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos4_noiseCond3_uttNum29.wav",
+  "seed": 1310
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond37_uttNum1415.wav",
+  "seed": 944
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond21_uttNum814.wav",
+  "seed": 676
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond25_uttNum927.wav",
+  "seed": 1277
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond30_uttNum1150.wav",
+  "seed": 987
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond1_uttNum1385.wav",
+  "seed": 1259
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos4_noiseCond33_uttNum1309.wav",
+  "seed": 401
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos2_noiseCond1_uttNum770.wav",
+  "seed": 1293
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerF4_speakerPos4_noiseCond29_uttNum1148.wav",
+  "seed": 244
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond1_uttNum466.wav",
+  "seed": 215
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos5_noiseCond1_uttNum554.wav",
+  "seed": 394
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos3_noiseCond12_uttNum462.wav",
+  "seed": 616
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos3_noiseCond1_uttNum1218.wav",
+  "seed": 1025
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond5_uttNum132.wav",
+  "seed": 971
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerF2_speakerPos1_noiseCond12_uttNum446.wav",
+  "seed": 450
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos1_noiseCond33_uttNum1285.wav",
+  "seed": 1186
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond1_uttNum913.wav",
+  "seed": 32
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos1_noiseCond6_uttNum205.wav",
+  "seed": 615
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond29_uttNum1084.wav",
+  "seed": 799
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM7_speakerPos2_noiseCond37_uttNum1336.wav",
+  "seed": 1173
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond4_uttNum103.wav",
+  "seed": 1243
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos4_noiseCond14_uttNum587.wav",
+  "seed": 191
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos3_noiseCond6_uttNum222.wav",
+  "seed": 1084
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos4_noiseCond28_uttNum1032.wav",
+  "seed": 487
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerF3_speakerPos1_noiseCond21_uttNum806.wav",
+  "seed": 1258
+ },
+ {
+  "path": "home3_room1_arrayGeo1_arrayPos1_speakerM6_speakerPos5_noiseCond21_uttNum797.wav",
+  "seed": 200
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM8_speakerPos3_noiseCond32_uttNum1299.wav",
+  "seed": 260
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM5_speakerPos1_noiseCond27_uttNum965.wav",
+  "seed": 1293
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond13_uttNum383.wav",
+  "seed": 571
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond9_uttNum278.wav",
+  "seed": 1245
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos5_noiseCond1_uttNum514.wav",
+  "seed": 98
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond1_uttNum1433.wav",
+  "seed": 1204
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerF2_speakerPos5_noiseCond16_uttNum599.wav",
+  "seed": 740
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond10_uttNum319.wav",
+  "seed": 1060
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond6_uttNum230.wav",
+  "seed": 18
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerM8_speakerPos2_noiseCond1_uttNum1410.wav",
+  "seed": 1434
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerF3_speakerPos2_noiseCond1_uttNum930.wav",
+  "seed": 781
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM4_speakerPos1_noiseCond14_uttNum523.wav",
+  "seed": 569
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerF1_speakerPos1_noiseCond1_uttNum241.wav",
+  "seed": 317
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerF1_speakerPos2_noiseCond3_uttNum14.wav",
+  "seed": 867
+ },
+ {
+  "path": "home3_room3_arrayGeo1_arrayPos1_speakerM6_speakerPos1_noiseCond28_uttNum1007.wav",
+  "seed": 56
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos5_noiseCond34_uttNum1279.wav",
+  "seed": 748
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond9_uttNum349.wav",
+  "seed": 9
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos3_noiseCond14_uttNum500.wav",
+  "seed": 184
+ },
+ {
+  "path": "home1_room2_arrayGeo1_arrayPos1_speakerF1_speakerPos5_noiseCond6_uttNum158.wav",
+  "seed": 497
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos5_noiseCond1_uttNum1234.wav",
+  "seed": 999
+ },
+ {
+  "path": "home1_room1_arrayGeo1_arrayPos1_speakerM2_speakerPos4_noiseCond1_uttNum105.wav",
+  "seed": 295
+ },
+ {
+  "path": "home2_room2_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond14_uttNum508.wav",
+  "seed": 1254
+ },
+ {
+  "path": "home1_room3_arrayGeo1_arrayPos1_speakerM1_speakerPos5_noiseCond1_uttNum313.wav",
+  "seed": 135
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerM7_speakerPos1_noiseCond1_uttNum1201.wav",
+  "seed": 781
+ },
+ {
+  "path": "home4_room1_arrayGeo1_arrayPos1_speakerM8_speakerPos5_noiseCond31_uttNum1199.wav",
+  "seed": 991
+ },
+ {
+  "path": "home4_room3_arrayGeo1_arrayPos1_speakerF4_speakerPos3_noiseCond36_uttNum1381.wav",
+  "seed": 306
+ },
+ {
+  "path": "home3_room2_arrayGeo1_arrayPos1_speakerM5_speakerPos2_noiseCond25_uttNum856.wav",
+  "seed": 540
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos1_noiseCond11_uttNum363.wav",
+  "seed": 741
+ },
+ {
+  "path": "home2_room1_arrayGeo1_arrayPos1_speakerM3_speakerPos4_noiseCond13_uttNum391.wav",
+  "seed": 1024
+ },
+ {
+  "path": "home4_room2_arrayGeo1_arrayPos1_speakerF4_speakerPos1_noiseCond32_uttNum1243.wav",
+  "seed": 1206
+ }
+]
